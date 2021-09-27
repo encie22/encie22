@@ -4,7 +4,7 @@ I am a composer, orchestrator, and conductor based in Australia 🎶
 I specialise in crafted orchestration for films, video games, and television 🎮
 My research interests include accessible forms of music performance using virtual reality technologies and I have a Doctor of Philosophy in Sonic Arts 🎓
 
-My eclectic and self-taught development skills are mostly in creative audio implementation and I have a high level of experience in Unity and C#.
+My eclectic and self-taught development skills are mostly in creative audio implementation and I have a high level of experience with Unity and C#.
 I love creating software that encourages interaction.
 I am a hobbyist homelabber with an interest in home automation.
 
